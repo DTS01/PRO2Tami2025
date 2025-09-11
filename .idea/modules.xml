@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/L03 - Abstrakt klasse/L03 - Abstrakt klasse.iml" filepath="$PROJECT_DIR$/L03 - Abstrakt klasse/L03 - Abstrakt klasse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L04/L04.iml" filepath="$PROJECT_DIR$/L04/L04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05 Recursive Method/L05 Recursive Method.iml" filepath="$PROJECT_DIR$/L05 Recursive Method/L05 Recursive Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06 Recursive/L06 Recursive.iml" filepath="$PROJECT_DIR$/L06 Recursive/L06 Recursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L07 Del - loes - kombiner/L07 Del - loes - kombiner.iml" filepath="$PROJECT_DIR$/L07 Del - loes - kombiner/L07 Del - loes - kombiner.iml" />
       <module fileurl="file://$PROJECT_DIR$/M1/M1.iml" filepath="$PROJECT_DIR$/M1/M1.iml" />
       <module fileurl="file://$PROJECT_DIR$/M2/M2.iml" filepath="$PROJECT_DIR$/M2/M2.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRO2 Tami 2025.iml" filepath="$PROJECT_DIR$/PRO2 Tami 2025.iml" />

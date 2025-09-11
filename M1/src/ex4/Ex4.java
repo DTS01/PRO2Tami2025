@@ -22,7 +22,8 @@ public class Ex4 {
 
         boolean success = buyTicket(7, 3);
         System.out.println("Køb af billet: " + success);
-
+        buyTicket(7, 4);
+        buyTicket(7, 5);
         printTheaterFloor();
     }
 
