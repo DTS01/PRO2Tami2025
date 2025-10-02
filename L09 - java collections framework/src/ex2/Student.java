@@ -1,16 +1,17 @@
 package ex2;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Student {
     private int StudentNo;
     private String name;
-    private List<Integer> grades;
+    private List<Integer> grades = new ArrayList<>(); // kan også bruge LinkedList<>();
 
-    public Student(int studentNo, String name, List<Integer> grades) {
+    public Student(int studentNo, String name) {
         StudentNo = studentNo;
         this.name = name;
-        this.grades = grades;
+      // this.grades = new ArrayList<>();
     }
 
     public int getStudentNo() {
